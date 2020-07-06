@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-LyricsFinder/static/css/main.36497136.chunk.css",
+    "main.js": "/React-LyricsFinder/static/js/main.28ba2294.chunk.js",
+    "main.js.map": "/React-LyricsFinder/static/js/main.28ba2294.chunk.js.map",
+    "runtime-main.js": "/React-LyricsFinder/static/js/runtime-main.2c7e0f33.js",
+    "runtime-main.js.map": "/React-LyricsFinder/static/js/runtime-main.2c7e0f33.js.map",
+    "static/js/2.69613132.chunk.js": "/React-LyricsFinder/static/js/2.69613132.chunk.js",
+    "static/js/2.69613132.chunk.js.map": "/React-LyricsFinder/static/js/2.69613132.chunk.js.map",
+    "index.html": "/React-LyricsFinder/index.html",
+    "precache-manifest.b67136e5ffa3e41afc2833e02930fa1d.js": "/React-LyricsFinder/precache-manifest.b67136e5ffa3e41afc2833e02930fa1d.js",
+    "service-worker.js": "/React-LyricsFinder/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/React-LyricsFinder/static/css/main.36497136.chunk.css.map",
+    "static/js/2.69613132.chunk.js.LICENSE.txt": "/React-LyricsFinder/static/js/2.69613132.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c7e0f33.js",
+    "static/js/2.69613132.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.28ba2294.chunk.js"
+  ]
+}
